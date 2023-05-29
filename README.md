@@ -1,20 +1,14 @@
-# meatball
+# boilerplate
 
-This is a hobbyist's attempt at machine learning by creating a chess engine
-
-The brains of the chess engine can be broken up into three distinct categories:
-
-1. Board representation - bitboard
-2. Search - Monte Carlo Tree Search (MCTS)
-3. Evaluation - deep neural network
+boilerplate
 
 # Installation
 
 Clone the directory
 
 ```
-git clone https://github.com/hgducharme/meatball.git
-cd meatball/
+git clone https://github.com/hgducharme/<APPNAME>.git
+cd <APPNAME>/
 ```
 
 Build the project
@@ -23,7 +17,7 @@ Build the project
 make
 ```
 
-If successful, you should see the executable `/bin/meatball`
+If successful, you should see the executable `/bin/<APPNAME>`
 
 # Tests
 
