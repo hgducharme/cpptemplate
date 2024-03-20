@@ -1,6 +1,6 @@
-# boilerplate
+# cpptemplate
 
-boilerplate
+Description
 
 # Installation
 
